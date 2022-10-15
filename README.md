@@ -1,2 +1,2 @@
-# Email-Automation
-Sending automated customized emails using Python
+# Password Checker
+Check whether your password has been hacked!
