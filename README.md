@@ -1,2 +1,2 @@
 # Password Checker
-Check whether your password has been hacked!
+Checks whether your password has been hacked using Hashlib
